@@ -1,0 +1,15 @@
+{
+  "name": "frank",
+  "version": "1.0.0",
+  "description": "Frank is a bot that can do anything! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Slack",
+    "Bot"
+  ],
+  "author": "Simran Ghumman",
+  "license": "ISC"
+}
